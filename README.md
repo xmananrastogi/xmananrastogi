@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xmananrastogi/xmananrastogi/main/banner.png" alt="Manan Rastogi Banner" width="100%">
-</p>
-
-<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00FF94&center=true&vCenter=true&width=435&lines=Initializing+connection...;Authorized+Access;Welcome+to+the+Lab;Architecting+Future+Systems" alt="Typing SVG" />
   </a>
