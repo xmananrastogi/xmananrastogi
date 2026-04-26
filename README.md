@@ -1,7 +1,5 @@
-# 🧪 LAB REPORT: MANAN RASTOGI
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xmananrastogi/xmananrastogi/main/banner.png" alt="Manan Rastogi Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/xmananrastogi/xmananrastogi/main/banner.png" alt="Banner" width="100%">
 </p>
 
 <p align="center">
