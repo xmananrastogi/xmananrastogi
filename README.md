@@ -1,59 +1,40 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/xmananrastogi/xmananrastogi/main/banner.png" alt="Manan Rastogi Banner" width="100%">
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00FF94&center=true&vCenter=true&width=435&lines=Initializing+connection...;Authorized+Access;Welcome+to+the+Lab;Architecting+Future+Systems" alt="Typing SVG" />
   </a>
 </p>
 
+<div align="center">
+
 ```json
 {
   "candidate": "Manan Rastogi",
-  "specialization": "Biomedical Systems & Full-Stack Architecture",
-  "education": {
-    "primary": "ECE @ VIT",
-    "secondary": "Data Science @ IIT Madras"
-  },
-  "current_mission": "Architecting high-performance digital-biological hybrid systems",
-  "location": "Vellore, India"
+  "mission": "Architecting high-performance digital-biological hybrid systems",
+  "location": "Vellore, India",
+  "status": "Ready for Collaboration"
 }
 ```
 
----
-
-### 🛠️ SYSTEM_CAPABILITIES.yaml
-
-```yaml
-diagnostic_engineering:
-  - python_3.12
-  - opencv
-  - numpy
-  - scipy
-  - trackpy
-  - scikit-image
-
-frontend_architecture:
-  - react_ts
-  - three_js_r3f
-  - gsap
-  - framer_motion
-  - tailwind_css
-
-backend_logic:
-  - node_js
-  - flask
-  - mongodb
-  - sqlite
-  - rest_api
-
-hardware_logic:
-  - verilog
-  - digital_design
-  - fpga_basics
-  - cpp
-```
+</div>
 
 ---
 
-### 📈 SYSTEM_DIAGNOSTICS.log
+### 🛠️ TECHNICAL_MATRIX.yaml
+
+| Category | Stack |
+| :--- | :--- |
+| **Diagnostic Eng.** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
+| **Frontend Arch.** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.dot.js&logoColor=white) |
+| **Systems / Back.** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **Hardware / Logic**| ![Verilog](https://img.shields.io/badge/Verilog-20232A?style=for-the-badge&logo=verilog&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+
+---
+
+### 📊 SYSTEM_DIAGNOSTICS.log
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xmananrastogi&show_icons=true&theme=react&border_color=00FF94&bg_color=0D1117&title_color=00FF94&text_color=FFFFFF&icon_color=00FF94" alt="GitHub Stats" width="48%">
@@ -66,7 +47,7 @@ hardware_logic:
 
 ---
 
-### 🚀 SYSTEM_DEPLOYMENTS
+### 🚀 ACTIVE_DEPLOYMENTS
 
 | Project | Protocol | Status | Link |
 | :--- | :--- | :--- | :--- |
