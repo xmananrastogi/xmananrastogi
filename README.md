@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./banner.png" alt="Manan Rastogi banner" width="720" />
-</p>
-
 <h1 align="center">Manan Rastogi</h1>
 
 <p align="center">
