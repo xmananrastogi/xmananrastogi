@@ -14,7 +14,7 @@
 
 > **Identity Verification:** ECE @ VIT & Data Science @ IIT Madras.  
 > **Mission:** Architecting high-performance digital-biological hybrid systems.  
-> **Location:** Vellore & Chennai, India
+> **Location:** Vellore, India
 
 I bridge the gap between complex hardware and intelligent software. My work spans from clinical-grade diagnostic algorithms in Python to immersive 3D generative UIs using Three.js.
 
