@@ -4,30 +4,56 @@
   </a>
 </p>
 
----
-
-### 🧬 BIOMEDICAL SYSTEMS ENGINEER | 💻 FULL-STACK ARCHITECT
-
-> **Identity Verification:** ECE @ VIT & Data Science @ IIT Madras.  
-> **Mission:** Architecting high-performance digital-biological hybrid systems.  
-> **Location:** Vellore, India
-
-I bridge the gap between complex hardware and intelligent software. My work spans from clinical-grade diagnostic algorithms in Python to immersive 3D generative UIs using Three.js.
-
----
-
-### 🛠️ TECHNOLOGY MATRIX
-
-| Domain | Stack |
-| :--- | :--- |
-| **Diagnostic Engineering** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white) |
-| **Frontend Architecture** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.dot.js&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white) |
-| **Systems & Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) |
-| **Hardware & Logic** | ![Verilog](https://img.shields.io/badge/Verilog-20232A?style=for-the-badge&logo=verilog&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+```json
+{
+  "candidate": "Manan Rastogi",
+  "specialization": "Biomedical Systems & Full-Stack Architecture",
+  "education": {
+    "primary": "ECE @ VIT",
+    "secondary": "Data Science @ IIT Madras"
+  },
+  "current_mission": "Architecting high-performance digital-biological hybrid systems",
+  "location": "Vellore, India"
+}
+```
 
 ---
 
-### 📊 SYSTEM DIAGNOSTICS
+### 🛠️ SYSTEM_CAPABILITIES.yaml
+
+```yaml
+diagnostic_engineering:
+  - python_3.12
+  - opencv
+  - numpy
+  - scipy
+  - trackpy
+  - scikit-image
+
+frontend_architecture:
+  - react_ts
+  - three_js_r3f
+  - gsap
+  - framer_motion
+  - tailwind_css
+
+backend_logic:
+  - node_js
+  - flask
+  - mongodb
+  - sqlite
+  - rest_api
+
+hardware_logic:
+  - verilog
+  - digital_design
+  - fpga_basics
+  - cpp
+```
+
+---
+
+### 📈 SYSTEM_DIAGNOSTICS.log
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xmananrastogi&show_icons=true&theme=react&border_color=00FF94&bg_color=0D1117&title_color=00FF94&text_color=FFFFFF&icon_color=00FF94" alt="GitHub Stats" width="48%">
@@ -40,14 +66,24 @@ I bridge the gap between complex hardware and intelligent software. My work span
 
 ---
 
-### 🚀 FEATURED DEPLOYMENTS
+### 🚀 SYSTEM_DEPLOYMENTS
 
-- 🩺 **[WoundTrack AI](https://github.com/xmananrastogi/WoundTrack-AI)** - Clinical-grade diagnostic engine for quantification of wound healing assays.
-- ✨ **[Modern Portfolio](https://github.com/xmananrastogi/portfolio)** - High-fidelity 3D portfolio showcasing the intersection of ECE and Computer Science.
+| Project | Protocol | Status | Link |
+| :--- | :--- | :--- | :--- |
+| **WoundTrack AI** | Biomedical / CV | `STABLE` | [🔗](https://github.com/xmananrastogi/WoundTrack-AI) |
+| **Modern Portfolio** | 3D / R3F | `ACTIVE` | [🔗](https://github.com/xmananrastogi/portfolio) |
 
 ---
 
-### 📡 CONNECTION PORTS
+### 🐍 CONTRIBUTION_FLOW
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xmananrastogi/xmananrastogi/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%">
+</p>
+
+---
+
+### 📡 EXTERNAL_PORTS
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manan-rastogi-402697288/">
@@ -64,5 +100,5 @@ I bridge the gap between complex hardware and intelligent software. My work span
 
 ---
 <p align="center">
-  <i>"Precision in logic, art in execution."</i>
+  <code>EOF // Precision in logic, art in execution.</code>
 </p>
