@@ -51,8 +51,8 @@ I turn ambiguous technical problems into measurable, deployable software. Lookin
 ## GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xmananrastogi&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="Manan Rastogi GitHub stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmananrastogi&layout=compact&theme=default&hide_border=true" alt="Top languages" width="41%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xmananrastogi&theme=tokyonight" alt="Manan Rastogi GitHub stats" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xmananrastogi&theme=tokyonight" alt="Top languages" width="45%" />
 </p>
 
 <p align="center">
