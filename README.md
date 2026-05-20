@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://xmananrastogi.github.io/portfolio/">Portfolio</a> |
   <a href="https://github.com/xmananrastogi/WoundTrack-AI">WoundTrack AI</a> |
-  <a href="https://drive.google.com/file/d/12WWLMK3u079zUcsO0HwMXNmcZHQCiYC6/view?usp=sharing">Resume</a> |
+  <a href="https://xmananrastogi.github.io/portfolio/resume.pdf">Resume</a> |
   <a href="https://www.linkedin.com/in/manan-rastogi-402697288/">LinkedIn</a> |
   <a href="mailto:mananrastogi2k8.210@gmail.com">Email</a>
 </p>
@@ -33,21 +33,20 @@ I build production-minded software that connects models, APIs, data, and user in
 | :--- | :--- | :--- | :--- |
 | **WoundTrack AI Diagnostic Dashboard** | Applied computer vision system for wound-healing assay analysis with segmentation, kinetic tracking, custom metrics, temporal smoothing, and batch processing. | Python, Flask, OpenCV, NumPy, SciPy, Trackpy, SQLite, Plotly.js | [Live](https://xmananrastogi-woundtrackai.hf.space/) / [Code](https://github.com/xmananrastogi/WoundTrack-AI) |
 | **Interactive Engineering Portfolio** | Full-stack-facing portfolio surface with 3D silicon/neural motifs, motion systems, responsive UI, and fast Vite architecture. | React, TypeScript, Three.js/R3F, Framer Motion, GSAP, Tailwind CSS | [Live](https://xmananrastogi.github.io/portfolio/) / [Code](https://github.com/xmananrastogi/portfolio) |
+| **VITalize AI** | Unified academic platform indexing 3,000+ past exam papers with AI-powered solutions via NVIDIA LLaMA 3.1, constraint-based FFCS timetable solver, and academic dashboard. | Next.js, TypeScript, MongoDB, NVIDIA LLaMA 3.1, Tesseract OCR, Tailwind CSS, Framer Motion | [Live](https://vitalize-vit.vercel.app/) |
 
 ## Technical Focus
 
 | Area | Tools |
 | :--- | :--- |
-| **Applied AI / CV** | Python 3.12, OpenCV, scikit-image, NumPy, SciPy, Trackpy, evaluation metrics |
-| **Full-Stack Frontend** | React, TypeScript, Three.js, React Three Fiber, Tailwind CSS, GSAP, Framer Motion |
-| **Backend / Data** | Flask, Node.js, REST APIs, SQLite, MongoDB, Plotly.js |
-| **Systems** | C++, Verilog, digital logic, Git, CI/CD-ready workflows |
+| **Applied AI / CV** | Python 3.12, OpenCV, scikit-image, NumPy, SciPy, Trackpy, NVIDIA LLaMA API, Tesseract OCR |
+| **Full-Stack Frontend** | React, TypeScript, Next.js, Three.js, React Three Fiber, Tailwind CSS, Framer Motion |
+| **Backend / Data** | Flask, Node.js, REST APIs, MongoDB, SQLite, Plotly.js |
+| **Infrastructure** | Vercel, Docker, Git, CI/CD, Linux Bash |
 
 ## Hiring Signal
 
-- I can turn ambiguous technical problems into working software with visible outputs.
-- I care about measurable behavior: model quality, API correctness, performance, interaction feel, and deployment reliability.
-- I am looking for internships and junior engineering roles where applied AI, full-stack systems, Python, TypeScript, or computer vision matter.
+I turn ambiguous technical problems into measurable, deployable software. Looking for internships and junior engineering roles in applied AI, full-stack systems, or computer vision.
 
 ## GitHub Snapshot
 
